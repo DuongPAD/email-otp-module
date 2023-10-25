@@ -19,7 +19,7 @@
 ### Installation
 
 1. Clone the repository.
-2. Install the required dependencies using `npm install`.
+2. Install the required dependencies for running unit tests using `npm install`.
 3. Run the tests using `npm run test`.
 
 ### Configuration
